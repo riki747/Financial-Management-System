@@ -1,1 +1,1 @@
-# Manager-Acounting
+# Financial Management System
